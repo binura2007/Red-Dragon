@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_BINURA.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://www.google.com/
+global.ig = 'https://www.google.com
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
